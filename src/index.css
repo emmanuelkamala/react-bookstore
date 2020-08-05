@@ -5,6 +5,4 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: 'Courier New', monospace;
-}
+code { font-family: 'Courier New', monospace; }
