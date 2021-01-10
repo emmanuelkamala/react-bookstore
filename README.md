@@ -29,19 +29,17 @@ Open your terminal or text editor and use next command
 
 ## Run the index file
 
-To run the index file and see the project; enter this command on the command line:
+> To run the index file and see the project; enter this command on the command line:
 'npm start'
 
-Then open the browser and enter this link:
+> Then open the browser and enter this link:
 http://localhost:8080
 
-After if you want to do any changes please create new branch, after changes open pull request.
+After if you want to do any changes please create new branch, after changes open pull request. <br />
 Happy coding! 
 
 
-
 ## Authors
-
 
 👤 **Author1**
 
